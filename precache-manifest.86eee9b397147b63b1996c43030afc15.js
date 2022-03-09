@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74c440d2754ba36a089a2b1e1a938a59",
+    "revision": "9682f781931464e7642f0ec33ee98c20",
     "url": "/weatheria/index.html"
   },
   {
-    "revision": "abd44e31c171661302f3",
+    "revision": "9c78e48f33089e027f3e",
     "url": "/weatheria/static/css/main.41ec3a49.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weatheria/static/js/2.6fc8ad99.chunk.js.LICENSE"
   },
   {
-    "revision": "abd44e31c171661302f3",
-    "url": "/weatheria/static/js/main.98a76479.chunk.js"
+    "revision": "9c78e48f33089e027f3e",
+    "url": "/weatheria/static/js/main.ab4a1f24.chunk.js"
   },
   {
     "revision": "5bf9f0f0758b7594461a",
