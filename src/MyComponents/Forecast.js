@@ -22,13 +22,13 @@ export default function Forecast(props) {
         let Min=100;
         list.map((item)=>{
             
-            if(date==item.dt_txt.substr(9,1)){
-                console.log(date+"  "+item.dt_txt.substr(9,2));
+            if(date==item.dt_txt.substr(8,2)){
+                console.log(date+"  "+item.dt_txt.substr(8,2));
                 if(item.main.temp_max>Max){
                     Max=item.main.temp_max;
                 }
             }
-            if(date==item.dt_txt.substr(9,1)){
+            if(date==item.dt_txt.substr(8,2)){
                 if(item.main.temp_min<Min){
                     Min=item.main.temp_min;
                 }
