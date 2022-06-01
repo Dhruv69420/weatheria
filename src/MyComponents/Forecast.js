@@ -17,7 +17,7 @@ export default function Forecast(props) {
     const [sky3, setsky3] = useState(" ");
     
     const minmax = (list,date,check) => {
-        
+        console.log("new"+list);
         let Max=0;
         let Min=100;
         list.map((item)=>{
